@@ -1,7 +1,7 @@
 {
   "version": "2.2.4",
   "songName": "Crossing My Road",
-  "artist": "idk",
+  "artist": "Moh & YamaHearted & J-Bug",
   "charter": "Moh",
   "divisions": 96,
   "looped": false,
@@ -19,7 +19,7 @@
     "characters": {
       "player": "bf",
       "girlfriend": "gf",
-      "opponent": "dad",
+      "opponent": "pico",
       "instrumental": "",
       "altInstrumentals": [      ],
       "opponentVocals": [
@@ -29,11 +29,11 @@
         "bf"
       ]
     },
-    "stage": "mainStage",
+    "stage": "phillyTrain",
     "noteStyle": "funkin",
     "ratings": {
-      "hard": 0,
-      "normal": 0
+      "normal": 0,
+      "hard": 0
     },
     "previewStart": 0,
     "previewEnd": 0
